@@ -8,3 +8,7 @@ int main()
 	foo();			// implies mycode::foo();
 	return 0;
 }
+
+
+
+
